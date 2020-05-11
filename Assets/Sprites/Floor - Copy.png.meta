@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 29a8d4bd6a3a92944a291bf2f6dd270b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8434626842658702738
+    second: Floor - Copy_0
+  - first:
+      213: 5290039603068814735
+    second: Floor - Copy_1
+  - first:
+      213: 6408957879579137998
+    second: Floor - Copy_2
+  - first:
+      213: -5486058380139657931
+    second: Floor - Copy_3
+  - first:
+      213: -3804339655592375772
+    second: Floor - Copy_4
+  - first:
+      213: -3617602094180649446
+    second: Floor - Copy_5
+  - first:
+      213: -1345579545495718337
+    second: Floor - Copy_6
+  - first:
+      213: -6522762595020617101
+    second: Floor - Copy_7
+  - first:
+      213: -3334695195825431958
+    second: Floor - Copy_8
+  - first:
+      213: -4868335023699502
+    second: Floor - Copy_9
+  - first:
+      213: -52674919512716604
+    second: Floor - Copy_10
+  - first:
+      213: 1004568682909376565
+    second: Floor - Copy_11
+  - first:
+      213: -682748064444432692
+    second: Floor - Copy_12
+  - first:
+      213: -1925129012970233325
+    second: Floor - Copy_13
+  - first:
+      213: -219427658216878960
+    second: Floor - Copy_14
+  - first:
+      213: 7865498393639241207
+    second: Floor - Copy_15
+  - first:
+      213: -5807949307830948208
+    second: Floor - Copy_16
+  - first:
+      213: -1207013416738182895
+    second: Floor - Copy_17
+  - first:
+      213: 2472483960862109132
+    second: Floor - Copy_18
+  - first:
+      213: 1627414806518671111
+    second: Floor - Copy_19
+  - first:
+      213: 9088452433443349592
+    second: Floor - Copy_20
+  - first:
+      213: -3069161175703155968
+    second: Floor - Copy_21
+  - first:
+      213: -7764878106623457183
+    second: Floor - Copy_22
+  - first:
+      213: 2952702472715488630
+    second: Floor - Copy_23
+  - first:
+      213: 306881364934668402
+    second: Floor - Copy_24
+  - first:
+      213: -8110346031703429360
+    second: Floor - Copy_25
+  - first:
+      213: 4777541073888613068
+    second: Floor - Copy_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a7a5e339f22fa80800000000000000
+      internalID: -8434626842658702738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f854aacbdfef96940800000000000000
+      internalID: 5290039603068814735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec751c04c3131f850800000000000000
+      internalID: 6408957879579137998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53588ba38fa9dd3b0800000000000000
+      internalID: -5486058380139657931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1637adef02bbcdc0800000000000000
+      internalID: -3617602094180649446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3632b5588a835de0800000000000000
+      internalID: -1345579545495718337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a47999afd7a75a0800000000000000
+      internalID: -6522762595020617101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9f9a2368c8b1d0800000000000000
+      internalID: -3334695195825431958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c34c6644beeff0800000000000000
+      internalID: -4868335023699502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca4fd5907cd44ff0800000000000000
+      internalID: -52674919512716604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ab4905e1f0fd00800000000000000
+      internalID: 1004568682909376565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce34b3b0446686f0800000000000000
+      internalID: -682748064444432692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c461a15bf64fcf0800000000000000
+      internalID: -219427658216878960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c546ad1dd72d60800000000000000
+      internalID: 7865498393639241207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea24950e4066fa0800000000000000
+      internalID: -5807949307830948208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a03841b3df3fe0800000000000000
+      internalID: -1207013416738182895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
