@@ -112,7 +112,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -145,7 +145,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -157,7 +157,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -297,7 +297,7 @@ TextureImporter:
       name: Floor - Copy_7
       rect:
         serializedVersion: 2
-        x: 222
+        x: 221
         y: 479
         width: 32
         height: 32
@@ -318,7 +318,7 @@ TextureImporter:
       name: Floor - Copy_8
       rect:
         serializedVersion: 2
-        x: 254
+        x: 253
         y: 479
         width: 32
         height: 32
@@ -465,7 +465,7 @@ TextureImporter:
       name: Floor - Copy_16
       rect:
         serializedVersion: 2
-        x: 222
+        x: 221
         y: 447
         width: 32
         height: 32
@@ -486,7 +486,7 @@ TextureImporter:
       name: Floor - Copy_17
       rect:
         serializedVersion: 2
-        x: 254
+        x: 253
         y: 447
         width: 32
         height: 32
